@@ -1,0 +1,16 @@
+C:\Users\Francisco\Desktop\Deber\Calculadora\CalculadoraApp\obj\Debug\netcoreapp3.1\CalculadoraApp.csprojAssemblyReference.cache
+C:\Users\Francisco\Desktop\Deber\Calculadora\CalculadoraApp\obj\Debug\netcoreapp3.1\CalculadoraApp.AssemblyInfoInputs.cache
+C:\Users\Francisco\Desktop\Deber\Calculadora\CalculadoraApp\obj\Debug\netcoreapp3.1\CalculadoraApp.AssemblyInfo.cs
+C:\Users\Francisco\Desktop\Deber\Calculadora\CalculadoraApp\obj\Debug\netcoreapp3.1\CalculadoraApp.csproj.CoreCompileInputs.cache
+C:\Users\Francisco\Desktop\Deber\Calculadora\CalculadoraApp\bin\Debug\netcoreapp3.1\CalculadoraApp.exe
+C:\Users\Francisco\Desktop\Deber\Calculadora\CalculadoraApp\bin\Debug\netcoreapp3.1\CalculadoraApp.deps.json
+C:\Users\Francisco\Desktop\Deber\Calculadora\CalculadoraApp\bin\Debug\netcoreapp3.1\CalculadoraApp.runtimeconfig.json
+C:\Users\Francisco\Desktop\Deber\Calculadora\CalculadoraApp\bin\Debug\netcoreapp3.1\CalculadoraApp.runtimeconfig.dev.json
+C:\Users\Francisco\Desktop\Deber\Calculadora\CalculadoraApp\bin\Debug\netcoreapp3.1\CalculadoraApp.dll
+C:\Users\Francisco\Desktop\Deber\Calculadora\CalculadoraApp\bin\Debug\netcoreapp3.1\CalculadoraApp.pdb
+C:\Users\Francisco\Desktop\Deber\Calculadora\CalculadoraApp\bin\Debug\netcoreapp3.1\LogicaCal.dll
+C:\Users\Francisco\Desktop\Deber\Calculadora\CalculadoraApp\bin\Debug\netcoreapp3.1\LogicaCal.pdb
+C:\Users\Francisco\Desktop\Deber\Calculadora\CalculadoraApp\obj\Debug\netcoreapp3.1\CalculadoraApp.csproj.CopyComplete
+C:\Users\Francisco\Desktop\Deber\Calculadora\CalculadoraApp\obj\Debug\netcoreapp3.1\CalculadoraApp.dll
+C:\Users\Francisco\Desktop\Deber\Calculadora\CalculadoraApp\obj\Debug\netcoreapp3.1\CalculadoraApp.pdb
+C:\Users\Francisco\Desktop\Deber\Calculadora\CalculadoraApp\obj\Debug\netcoreapp3.1\CalculadoraApp.genruntimeconfig.cache

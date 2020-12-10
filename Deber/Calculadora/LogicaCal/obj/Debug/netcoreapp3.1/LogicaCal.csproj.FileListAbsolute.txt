@@ -1,0 +1,9 @@
+C:\Users\Francisco\Desktop\Deber\Calculadora\LogicaCal\bin\Debug\netcoreapp3.1\LogicaCal.deps.json
+C:\Users\Francisco\Desktop\Deber\Calculadora\LogicaCal\bin\Debug\netcoreapp3.1\LogicaCal.dll
+C:\Users\Francisco\Desktop\Deber\Calculadora\LogicaCal\bin\Debug\netcoreapp3.1\LogicaCal.pdb
+C:\Users\Francisco\Desktop\Deber\Calculadora\LogicaCal\obj\Debug\netcoreapp3.1\LogicaCal.csprojAssemblyReference.cache
+C:\Users\Francisco\Desktop\Deber\Calculadora\LogicaCal\obj\Debug\netcoreapp3.1\LogicaCal.AssemblyInfoInputs.cache
+C:\Users\Francisco\Desktop\Deber\Calculadora\LogicaCal\obj\Debug\netcoreapp3.1\LogicaCal.AssemblyInfo.cs
+C:\Users\Francisco\Desktop\Deber\Calculadora\LogicaCal\obj\Debug\netcoreapp3.1\LogicaCal.csproj.CoreCompileInputs.cache
+C:\Users\Francisco\Desktop\Deber\Calculadora\LogicaCal\obj\Debug\netcoreapp3.1\LogicaCal.dll
+C:\Users\Francisco\Desktop\Deber\Calculadora\LogicaCal\obj\Debug\netcoreapp3.1\LogicaCal.pdb

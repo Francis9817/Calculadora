@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "CalculadoraApp/1.0.0": {
+        "dependencies": {
+          "LogicaCal": "1.0.0"
+        },
+        "runtime": {
+          "CalculadoraApp.dll": {}
+        }
+      },
+      "LogicaCal/1.0.0": {
+        "runtime": {
+          "LogicaCal.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CalculadoraApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LogicaCal/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
